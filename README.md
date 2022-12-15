@@ -320,20 +320,20 @@ SQL Statement:
 ## Sample data from all tables
 
 ### Player table:
-![image](https://github.com/vikpawar22/DMDD_Ass3/blob/master/Images/Player%20table.png)
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/Player.png)
 
 
 ### Coach Table:
-![image](https://github.com/vikpawar22/DMDD_Ass3/blob/master/Images/Coach%20Table.png)
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/Coach.png)
 
 
 ### Player_stats Table:
-![image](https://github.com/vikpawar22/DMDD_Ass3/blob/master/Images/Player%20Stats%20table.png)
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/Player_Stats.png)
 
 
 ### Stadium Table:
-![image](https://github.com/vikpawar22/DMDD_Ass3/blob/master/Images/Stadium%20Table.png)
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/Stadium.png)
 
 
 ### Team Table: 
-![image](https://github.com/vikpawar22/DMDD_Ass3/blob/master/Images/Team%20Table.png)
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/Team.png)
