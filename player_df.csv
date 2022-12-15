@@ -1,0 +1,677 @@
+,First_Name,Last_Name,Pos,Age,Team
+0,Steven,Adams,C,26,Oklahoma City Thunder
+1,Bam,Adebayo,PF,22,Miami Heat
+2,LaMarcus,Aldridge,C,34,San Antonio Spurs
+3,Kyle,Alexander,C,23,Miami Heat
+4,Nickeil,Alexander-Walker,SG,21,New Orleans Pelicans
+5,Grayson,Allen,SG,24,Memphis Grizzlies
+6,Jarrett,Allen,C,21,Brooklyn Nets
+7,Kadeem,Allen,PG,27,New York Knicks
+8,Al-Farouq,Aminu,PF,29,Orlando Magic
+9,Justin,Anderson,SG,26,Brooklyn Nets
+10,Kyle,Anderson,SF,26,Memphis Grizzlies
+11,Ryan,Anderson,C,31,Houston Rockets
+12,Giannis,Antetokounmpo,PF,25,Milwaukee Bucks
+13,Kostas,Antetokounmpo,PF,22,Los Angeles Lakers
+14,Thanasis,Antetokounmpo,SF,27,Milwaukee Bucks
+15,Carmelo,Anthony,PF,35,Portland Trail Blazers
+16,OG,Anunoby,SF,22,Toronto Raptors
+17,Ryan,Arcidiacono,PG,25,Chicago Bulls
+18,Trevor,Ariza,SF,34,0
+19,Trevor,Ariza,SF,34,Sacramento Kings
+20,Trevor,Ariza,SF,34,Portland Trail Blazers
+21,D.J.,Augustin,PG,32,Orlando Magic
+22,Deandre,Ayton,C,21,Phoenix Suns
+23,Dwayne,Bacon,SG,24,Charlotte Hornets
+24,Marvin,Bagley,C,20,Sacramento Kings
+25,Lonzo,Ball,PG,22,New Orleans Pelicans
+26,Mo,Bamba,C,21,Orlando Magic
+27,J.J.,Barea,PG,35,Dallas Mavericks
+28,Harrison,Barnes,PF,27,Sacramento Kings
+29,RJ,Barrett,SG,19,New York Knicks
+30,Will,Barton,SF,29,Denver Nuggets
+31,Keita,Bates-Diop,PF-SF,24,0
+32,Keita,Bates-Diop,PF,24,Minnesota Timberwolves
+33,Keita,Bates-Diop,SF,24,Denver Nuggets
+34,Nicolas,Batum,SF,31,Charlotte Hornets
+35,Aron,Baynes,C,33,Phoenix Suns
+36,Kent,Bazemore,SF,30,0
+37,Kent,Bazemore,SF,30,Portland Trail Blazers
+38,Kent,Bazemore,SF,30,Sacramento Kings
+39,Darius,Bazley,PF,19,Oklahoma City Thunder
+40,Bradley,Beal,SG,26,Washington Wizards
+41,Malik,Beasley,SG,23,0
+42,Malik,Beasley,SG,23,Denver Nuggets
+43,Malik,Beasley,SG,23,Minnesota Timberwolves
+44,Marco,Belinelli,SG,33,San Antonio Spurs
+45,Jordan,Bell,C,25,0
+46,Jordan,Bell,C,25,Minnesota Timberwolves
+47,Jordan,Bell,C,25,Memphis Grizzlies
+48,DeAndre',Bembry,SG,25,Atlanta Hawks
+49,Dragan,Bender,PF-C,22,0
+50,Dragan,Bender,C,22,Milwaukee Bucks
+51,Dragan,Bender,PF,22,Golden State Warriors
+52,Player,0,Pos,Age,0
+53,Dāvis,Bertāns,PF,27,Washington Wizards
+54,Patrick,Beverley,PG,31,Los Angeles Clippers
+55,Khem,Birch,C,27,Orlando Magic
+56,Goga,Bitadze,C,20,Indiana Pacers
+57,Bismack,Biyombo,C,27,Charlotte Hornets
+58,Nemanja,Bjelica,PF,31,Sacramento Kings
+59,Eric,Bledsoe,PG,30,Milwaukee Bucks
+60,Bogdan,Bogdanović,SG,27,Sacramento Kings
+61,Bojan,Bogdanović,SF,30,Utah Jazz
+62,Bol,Bol,PF,20,Denver Nuggets
+63,Jonah,Bolden,C,24,0
+64,Jonah,Bolden,C,24,Philadelphia 76ers
+65,Jonah,Bolden,C,24,Phoenix Suns
+66,Marques,Bolden,C,21,Cleveland Cavaliers
+67,Jordan,Bone,PG,22,Detroit Pistons
+68,Isaac,Bonga,SF,20,Washington Wizards
+69,Devin,Booker,SG,23,Phoenix Suns
+70,Chris,Boucher,C,27,Toronto Raptors
+71,Brian,Bowen,SF,21,Indiana Pacers
+72,Ky,Bowman,PG,22,Golden State Warriors
+73,Avery,Bradley,SG,29,Los Angeles Lakers
+74,Tony,Bradley,C,22,Utah Jazz
+75,Player,0,Pos,Age,0
+76,Jarrell,Brantley,PF,23,Utah Jazz
+77,Ignas,Brazdeikis,SF,21,New York Knicks
+78,Corey,Brewer,PF,33,Sacramento Kings
+79,Mikal,Bridges,SF,23,Phoenix Suns
+80,Miles,Bridges,SF,21,Charlotte Hornets
+81,Oshae,Brissett,SF,21,Toronto Raptors
+82,Ryan,Broekhoff,SF,29,Dallas Mavericks
+83,Malcolm,Brogdon,PG,27,Indiana Pacers
+84,Dillon,Brooks,SG,24,Memphis Grizzlies
+85,Bruce,Brown,PG,23,Detroit Pistons
+86,Charlie,Brown,SG,22,Atlanta Hawks
+87,Jaylen,Brown,SG,23,Boston Celtics
+88,Moses,Brown,C,20,Portland Trail Blazers
+89,Sterling,Brown,SF,24,Milwaukee Bucks
+90,Troy,Brown,SF,20,Washington Wizards
+91,Jalen,Brunson,PG,23,Dallas Mavericks
+92,Thomas,Bryant,C,22,Washington Wizards
+93,Reggie,Bullock,SG,28,New York Knicks
+94,Trey,Burke,PG,27,0
+95,Trey,Burke,PG,27,Philadelphia 76ers
+96,Trey,Burke,PG,27,Dallas Mavericks
+97,Alec,Burks,SF-SG,28,0
+98,Alec,Burks,SF,28,Golden State Warriors
+99,Alec,Burks,SG,28,Philadelphia 76ers
+100,Player,0,Pos,Age,0
+101,Deonte,Burton,SF,26,Oklahoma City Thunder
+102,Jimmy,Butler,SF,30,Miami Heat
+103,Bruno,Caboclo,C,24,0
+104,Bruno,Caboclo,C,24,Memphis Grizzlies
+105,Bruno,Caboclo,C,24,Houston Rockets
+106,Devontae,Cacok,C,23,Los Angeles Lakers
+107,Kentavious,Caldwell-Pope,SG,26,Los Angeles Lakers
+108,Vlatko,Čančar,PF,22,Denver Nuggets
+109,Clint,Capela,C,25,Houston Rockets
+110,DeMarre,Carroll,SF-C,33,0
+111,DeMarre,Carroll,SF,33,San Antonio Spurs
+112,DeMarre,Carroll,C,33,Houston Rockets
+113,Jevon,Carter,PG,24,Phoenix Suns
+114,Vince,Carter,PF,43,Atlanta Hawks
+115,Wendell,Carter,C,20,Chicago Bulls
+116,Michael,Carter-Williams,SG,28,Orlando Magic
+117,Alex,Caruso,PG,25,Los Angeles Lakers
+118,Willie,Cauley-Stein,C,26,0
+119,Willie,Cauley-Stein,C,26,Golden State Warriors
+120,Willie,Cauley-Stein,C,26,Dallas Mavericks
+121,Tyson,Chandler,C,37,Houston Rockets
+122,Wilson,Chandler,PF,32,Brooklyn Nets
+123,Joe,Chealey,PG,24,Charlotte Hornets
+124,Zylan,Cheatham,PF,24,New Orleans Pelicans
+125,Chris,Chiozza,PG,24,0
+126,Chris,Chiozza,PG,24,Washington Wizards
+127,Chris,Chiozza,PG,24,Brooklyn Nets
+128,Marquese,Chriss,PF,22,Golden State Warriors
+129,Player,0,Pos,Age,0
+130,Gary,Clark,SF-PF,25,0
+131,Gary,Clark,PF,25,Houston Rockets
+132,Gary,Clark,SF,25,Orlando Magic
+133,Brandon,Clarke,PF,23,Memphis Grizzlies
+134,Jordan,Clarkson,SG,27,0
+135,Jordan,Clarkson,SG,27,Cleveland Cavaliers
+136,Jordan,Clarkson,SG,27,Utah Jazz
+137,Nic,Claxton,C,20,Brooklyn Nets
+138,Chris,Clemons,SG,22,Houston Rockets
+139,Antonius,Cleveland,SG,25,Dallas Mavericks
+140,Amir,Coffey,SG,22,Los Angeles Clippers
+141,John,Collins,PF,22,Atlanta Hawks
+142,Zach,Collins,PF,22,Portland Trail Blazers
+143,Mike,Conley,PG,32,Utah Jazz
+144,Pat,Connaughton,SG,27,Milwaukee Bucks
+145,Quinn,Cook,PG,26,Los Angeles Lakers
+146,Tyler,Cook,PF-SF,22,0
+147,Tyler,Cook,PF,22,Cleveland Cavaliers
+148,Tyler,Cook,SF,22,Denver Nuggets
+149,Robert,Covington,PF-C,29,0
+150,Robert,Covington,PF,29,Minnesota Timberwolves
+151,Robert,Covington,C,29,Houston Rockets
+152,Allen,Crabbe,SG-SF,27,0
+153,Allen,Crabbe,SG,27,Atlanta Hawks
+154,Allen,Crabbe,SF,27,Minnesota Timberwolves
+155,Torrey,Craig,SF,29,Denver Nuggets
+156,Jamal,Crawford,SG,39,Brooklyn Nets
+157,Jae,Crowder,SF-PF,29,0
+158,Jae,Crowder,SF,29,Memphis Grizzlies
+159,Jae,Crowder,PF,29,Miami Heat
+160,Jarrett,Culver,SG,20,Minnesota Timberwolves
+161,Seth,Curry,SG,29,Dallas Mavericks
+162,Player,0,Pos,Age,0
+163,Stephen,Curry,PG,31,Golden State Warriors
+164,Troy,Daniels,SG,28,0
+165,Troy,Daniels,SG,28,Los Angeles Lakers
+166,Troy,Daniels,SG,28,Denver Nuggets
+167,Anthony,Davis,PF,26,Los Angeles Lakers
+168,Ed,Davis,C,30,Utah Jazz
+169,Terence,Davis,SG,22,Toronto Raptors
+170,Dewayne,Dedmon,C,30,0
+171,Dewayne,Dedmon,C,30,Sacramento Kings
+172,Dewayne,Dedmon,C,30,Atlanta Hawks
+173,Matthew,Dellavedova,PG,29,Cleveland Cavaliers
+174,DeMar,DeRozan,SF,30,San Antonio Spurs
+175,Cheick,Diallo,C,23,Phoenix Suns
+176,Hamidou,Diallo,SF,21,Oklahoma City Thunder
+177,Gorgui,Dieng,C,30,0
+178,Gorgui,Dieng,C,30,Minnesota Timberwolves
+179,Gorgui,Dieng,C,30,Memphis Grizzlies
+180,Spencer,Dinwiddie,PG,26,Brooklyn Nets
+181,Donte,DiVincenzo,SG,23,Milwaukee Bucks
+182,Luka,Dončić,PG,20,Dallas Mavericks
+183,Luguentz,Dort,SF,20,Oklahoma City Thunder
+184,Damyean,Dotson,SG,25,New York Knicks
+185,Sekou,Doumbouya,PF,19,Detroit Pistons
+186,PJ,Dozier,SG,23,Denver Nuggets
+187,Goran,Dragić,PG,33,Miami Heat
+188,Andre,Drummond,C,26,0
+189,Andre,Drummond,C,26,Detroit Pistons
+190,Andre,Drummond,C,26,Cleveland Cavaliers
+191,Player,0,Pos,Age,0
+192,Jared,Dudley,PF,34,Los Angeles Lakers
+193,Kris,Dunn,PG,25,Chicago Bulls
+194,Carsen,Edwards,SG,21,Boston Celtics
+195,Henry,Ellenson,C,23,Brooklyn Nets
+196,Wayne,Ellington,SG,32,New York Knicks
+197,Joel,Embiid,C,25,Philadelphia 76ers
+198,James,Ennis,SF-SG,29,0
+199,James,Ennis,SF,29,Philadelphia 76ers
+200,James,Ennis,SG,29,Orlando Magic
+201,Drew,Eubanks,C,22,San Antonio Spurs
+202,Jacob,Evans,SG,22,0
+203,Jacob,Evans,SG,22,Golden State Warriors
+204,Jacob,Evans,SG,22,Minnesota Timberwolves
+205,Dante,Exum,SG,24,0
+206,Dante,Exum,SG,24,Utah Jazz
+207,Dante,Exum,SG,24,Cleveland Cavaliers
+208,Tacko,Fall,C,24,Boston Celtics
+209,Derrick,Favors,C,28,New Orleans Pelicans
+210,Cristiano,Felício,C,27,Chicago Bulls
+211,Terrance,Ferguson,SF,21,Oklahoma City Thunder
+212,Bruno,Fernando,C,21,Atlanta Hawks
+213,Yogi,Ferrell,PG,26,Sacramento Kings
+214,Dorian,Finney-Smith,PF,26,Dallas Mavericks
+215,Bryn,Forbes,SG,26,San Antonio Spurs
+216,Evan,Fournier,SF,27,Orlando Magic
+217,De'Aaron,Fox,PG,22,Sacramento Kings
+218,Player,0,Pos,Age,0
+219,Melvin,Frazier,SG,23,Orlando Magic
+220,Michael,Frazier,SG,25,Houston Rockets
+221,Tim,Frazier,PG,29,Detroit Pistons
+222,Enes,Freedom,C,27,Boston Celtics
+223,Markelle,Fultz,PG,21,Orlando Magic
+224,Wenyen,Gabriel,PF,22,0
+225,Wenyen,Gabriel,PF,22,Sacramento Kings
+226,Wenyen,Gabriel,PF,22,Portland Trail Blazers
+227,Daniel,Gafford,C,21,Chicago Bulls
+228,Danilo,Gallinari,PF,31,Oklahoma City Thunder
+229,Langston,Galloway,SG,28,Detroit Pistons
+230,Darius,Garland,SG,20,Cleveland Cavaliers
+231,Marc,Gasol,C,35,Toronto Raptors
+232,Rudy,Gay,PF,33,San Antonio Spurs
+233,Paul,George,SF,29,Los Angeles Clippers
+234,Taj,Gibson,C,34,New York Knicks
+235,Harry,Giles,C,21,Sacramento Kings
+236,Shai,Gilgeous-Alexander,SG,21,Oklahoma City Thunder
+237,Rudy,Gobert,C,27,Utah Jazz
+238,Brandon,Goodwin,PG,24,Atlanta Hawks
+239,Aaron,Gordon,PF,24,Orlando Magic
+240,Eric,Gordon,SF,31,Houston Rockets
+241,Player,0,Pos,Age,0
+242,Devonte',Graham,PG,24,Charlotte Hornets
+243,Treveon,Graham,SF,26,0
+244,Treveon,Graham,SF,26,Minnesota Timberwolves
+245,Treveon,Graham,SF,26,Atlanta Hawks
+246,Jerami,Grant,PF,25,Denver Nuggets
+247,Jerian,Grant,SG,27,Washington Wizards
+248,Josh,Gray,PG,26,New Orleans Pelicans
+249,Danny,Green,SG,32,Los Angeles Lakers
+250,Draymond,Green,PF,29,Golden State Warriors
+251,JaMychal,Green,PF,29,Los Angeles Clippers
+252,Javonte,Green,SG,26,Boston Celtics
+253,Jeff,Green,PF-C,33,0
+254,Jeff,Green,PF,33,Utah Jazz
+255,Jeff,Green,C,33,Houston Rockets
+256,Blake,Griffin,PF,30,Detroit Pistons
+257,Marko,Guduric,SG,24,Memphis Grizzlies
+258,Kyle,Guy,SG,22,Sacramento Kings
+259,Rui,Hachimura,PF,21,Washington Wizards
+260,Devon,Hall,PG,24,Oklahoma City Thunder
+261,Donta,Hall,C-PF,22,0
+262,Donta,Hall,PF,22,Detroit Pistons
+263,Donta,Hall,C,22,Brooklyn Nets
+264,Dusty,Hannahs,SG,26,Memphis Grizzlies
+265,Tim,Hardaway,SG,27,Dallas Mavericks
+266,James,Harden,SG,30,Houston Rockets
+267,Maurice,Harkless,PF-SF,26,0
+268,Maurice,Harkless,PF,26,Los Angeles Clippers
+269,Maurice,Harkless,SF,26,New York Knicks
+270,Player,0,Pos,Age,0
+271,Jared,Harper,PG,22,Phoenix Suns
+272,Montrezl,Harrell,C,26,Los Angeles Clippers
+273,Gary,Harris,SG,25,Denver Nuggets
+274,Joe,Harris,SF,28,Brooklyn Nets
+275,Tobias,Harris,PF,27,Philadelphia 76ers
+276,Shaquille,Harrison,SG,26,Chicago Bulls
+277,Josh,Hart,SF,24,New Orleans Pelicans
+278,Isaiah,Hartenstein,C,21,Houston Rockets
+279,Udonis,Haslem,C,39,Miami Heat
+280,Jaxson,Hayes,C,19,New Orleans Pelicans
+281,Gordon,Hayward,SF,29,Boston Celtics
+282,John,Henson,C,29,0
+283,John,Henson,C,29,Cleveland Cavaliers
+284,John,Henson,C,29,Detroit Pistons
+285,Dewan,Hernandez,C,23,Toronto Raptors
+286,Juancho,Hernangómez,PF,24,0
+287,Juancho,Hernangómez,PF,24,Denver Nuggets
+288,Juancho,Hernangómez,PF,24,Minnesota Timberwolves
+289,Willy,Hernangómez,C,25,Charlotte Hornets
+290,Tyler,Herro,SG,20,Miami Heat
+291,Kevin,Hervey,PF,23,Oklahoma City Thunder
+292,Mario,Hezonja,PF,24,Portland Trail Blazers
+293,Buddy,Hield,SG,27,Sacramento Kings
+294,George,Hill,PG,33,Milwaukee Bucks
+295,Player,0,Pos,Age,0
+296,Solomon,Hill,PF,28,0
+297,Solomon,Hill,PF,28,Memphis Grizzlies
+298,Solomon,Hill,PF,28,Miami Heat
+299,Jaylen,Hoard,PF,20,Portland Trail Blazers
+300,Aaron,Holiday,PG,23,Indiana Pacers
+301,Jrue,Holiday,SG,29,New Orleans Pelicans
+302,Justin,Holiday,SF,30,Indiana Pacers
+303,Rondae,Hollis-Jefferson,PF,25,Toronto Raptors
+304,Richaun,Holmes,C,26,Sacramento Kings
+305,Rodney,Hood,SF,27,Portland Trail Blazers
+306,Al,Horford,C,33,Philadelphia 76ers
+307,Talen,Horton-Tucker,SG,19,Los Angeles Lakers
+308,Danuel,House,SF,26,Houston Rockets
+309,Dwight,Howard,C,34,Los Angeles Lakers
+310,William,Howard,PF,26,Houston Rockets
+311,Kevin,Huerter,SG,21,Atlanta Hawks
+312,De'Andre,Hunter,SF,22,Atlanta Hawks
+313,Chandler,Hutchison,SF,23,Chicago Bulls
+314,Serge,Ibaka,C,30,Toronto Raptors
+315,Andre,Iguodala,SF,36,Miami Heat
+316,Ersan,İlyasova,PF,32,Milwaukee Bucks
+317,Joe,Ingles,PF,32,Utah Jazz
+318,Player,0,Pos,Age,0
+319,Brandon,Ingram,PF,22,New Orleans Pelicans
+320,Kyrie,Irving,PG,27,Brooklyn Nets
+321,Jonathan,Isaac,PF,22,Orlando Magic
+322,Wes,Iwundu,SF,25,Orlando Magic
+323,Frank,Jackson,PG,21,New Orleans Pelicans
+324,Jaren,Jackson,C,20,Memphis Grizzlies
+325,Josh,Jackson,SF,22,Memphis Grizzlies
+326,Justin,Jackson,PF,24,Dallas Mavericks
+327,Reggie,Jackson,SG-PG,29,0
+328,Reggie,Jackson,PG,29,Detroit Pistons
+329,Reggie,Jackson,SG,29,Los Angeles Clippers
+330,Justin,James,SF,23,Sacramento Kings
+331,LeBron,James,PG,35,Los Angeles Lakers
+332,Amile,Jefferson,PF,26,Orlando Magic
+333,DaQuan,Jeffries,SG,22,Sacramento Kings
+334,Ty,Jerome,SG,22,Phoenix Suns
+335,Alize,Johnson,PF,23,Indiana Pacers
+336,B.J.,Johnson,SF,24,Orlando Magic
+337,Cameron,Johnson,PF,23,Phoenix Suns
+338,James,Johnson,PF-C,32,0
+339,James,Johnson,PF,32,Miami Heat
+340,James,Johnson,C,32,Minnesota Timberwolves
+341,Keldon,Johnson,SF,20,San Antonio Spurs
+342,Stanley,Johnson,PF,23,Toronto Raptors
+343,Player,0,Pos,Age,0
+344,Tyler,Johnson,PG-SG,27,0
+345,Tyler,Johnson,PG,27,Phoenix Suns
+346,Tyler,Johnson,SG,27,Brooklyn Nets
+347,Nikola,Jokić,C,24,Denver Nuggets
+348,Damian,Jones,C,24,Atlanta Hawks
+349,Derrick,Jones,SF,22,Miami Heat
+350,Tyus,Jones,PG,23,Memphis Grizzlies
+351,DeAndre,Jordan,C,31,Brooklyn Nets
+352,Cory,Joseph,PG,28,Sacramento Kings
+353,Mfiondu,Kabengele,C,22,Los Angeles Clippers
+354,Frank,Kaminsky,C,26,Phoenix Suns
+355,Luke,Kennard,SG,23,Detroit Pistons
+356,Stanton,Kidd,SG,27,Utah Jazz
+357,Michael,Kidd-Gilchrist,PF,26,0
+358,Michael,Kidd-Gilchrist,PF,26,Charlotte Hornets
+359,Michael,Kidd-Gilchrist,PF,26,Dallas Mavericks
+360,Louis,King,SF,20,Detroit Pistons
+361,Maxi,Kleber,PF,28,Dallas Mavericks
+362,Brandon,Knight,SG-PG,28,0
+363,Brandon,Knight,SG,28,Cleveland Cavaliers
+364,Brandon,Knight,PG,28,Detroit Pistons
+365,Kevin,Knox,SF,20,New York Knicks
+366,John,Konchar,SG,23,Memphis Grizzlies
+367,Furkan,Korkmaz,SG,22,Philadelphia 76ers
+368,Luke,Kornet,C,24,Chicago Bulls
+369,Kyle,Korver,SF,38,Milwaukee Bucks
+370,Player,0,Pos,Age,0
+371,Rodions,Kurucs,PF,21,Brooklyn Nets
+372,Kyle,Kuzma,PF,24,Los Angeles Lakers
+373,Skal,Labissière,C,23,Portland Trail Blazers
+374,Jeremy,Lamb,SG,27,Indiana Pacers
+375,Romeo,Langford,SG,20,Boston Celtics
+376,Zach,LaVine,SF,24,Chicago Bulls
+377,Vic,Law,PF,24,Orlando Magic
+378,Jake,Layman,SF,25,Minnesota Timberwolves
+379,T.J.,Leaf,PF,22,Indiana Pacers
+380,Jalen,Lecque,SG,19,Phoenix Suns
+381,Courtney,Lee,SG,34,Dallas Mavericks
+382,Damion,Lee,SG,27,Golden State Warriors
+383,Alex,Len,C,26,0
+384,Alex,Len,C,26,Atlanta Hawks
+385,Alex,Len,C,26,Sacramento Kings
+386,Kawhi,Leonard,SF,28,Los Angeles Clippers
+387,Meyers,Leonard,C,27,Miami Heat
+388,Caris,LeVert,SG,25,Brooklyn Nets
+389,Damian,Lillard,PG,29,Portland Trail Blazers
+390,Nassir,Little,PF,19,Portland Trail Blazers
+391,Kevon,Looney,C,23,Golden State Warriors
+392,Brook,Lopez,C,31,Milwaukee Bucks
+393,Player,0,Pos,Age,0
+394,Robin,Lopez,C,31,Milwaukee Bucks
+395,Kevin,Love,PF,31,Cleveland Cavaliers
+396,Kyle,Lowry,PG,33,Toronto Raptors
+397,Timothé,Luwawu-Cabarrot,SF,24,Brooklyn Nets
+398,Trey,Lyles,PF,24,San Antonio Spurs
+399,Daryl,Macon,PG,24,Miami Heat
+400,J.P.,Macura,SG,24,Cleveland Cavaliers
+401,Josh,Magette,PG,30,Orlando Magic
+402,Ian,Mahinmi,C,33,Washington Wizards
+403,Thon,Maker,C,22,Detroit Pistons
+404,Terance,Mann,SF,23,Los Angeles Clippers
+405,Boban,Marjanović,C,31,Dallas Mavericks
+406,Lauri,Markkanen,PF,22,Chicago Bulls
+407,Caleb,Martin,SF,24,Charlotte Hornets
+408,Cody,Martin,SF,24,Charlotte Hornets
+409,Jeremiah,Martin,PG,23,Brooklyn Nets
+410,Kelan,Martin,SF,24,Minnesota Timberwolves
+411,Frank,Mason,PG,25,Milwaukee Bucks
+412,Garrison,Mathews,SG,23,Washington Wizards
+413,Wesley,Matthews,SG,33,Milwaukee Bucks
+414,Player,0,Pos,Age,0
+415,Luc,Mbah,PF,33,Houston Rockets
+416,Patrick,McCaw,SF,24,Toronto Raptors
+417,CJ,McCollum,SG,28,Portland Trail Blazers
+418,T.J.,McConnell,PG,27,Indiana Pacers
+419,Jalen,McDaniels,SF,22,Charlotte Hornets
+420,Doug,McDermott,PF,28,Indiana Pacers
+421,JaVale,McGee,C,32,Los Angeles Lakers
+422,Rodney,McGruder,SG,28,Los Angeles Clippers
+423,Alfonzo,McKinnie,SF,27,Cleveland Cavaliers
+424,Jordan,McLaughlin,PG,23,Minnesota Timberwolves
+425,Ben,McLemore,SF,26,Houston Rockets
+426,Jordan,McRae,SG,28,0
+427,Jordan,McRae,SG,28,Washington Wizards
+428,Jordan,McRae,SG,28,Denver Nuggets
+429,Jordan,McRae,SG,28,Detroit Pistons
+430,Nicolò,Melli,C,29,New Orleans Pelicans
+431,De'Anthony,Melton,PG,21,Memphis Grizzlies
+432,Chimezie,Metu,C,22,San Antonio Spurs
+433,Khris,Middleton,SF,28,Milwaukee Bucks
+434,Eric,Mika,C,25,Sacramento Kings
+435,C.J.,Miles,SF,32,Washington Wizards
+436,Malcolm,Miller,SF,26,Toronto Raptors
+437,Patty,Mills,PG,31,San Antonio Spurs
+438,Player,0,Pos,Age,0
+439,Paul,Millsap,PF,34,Denver Nuggets
+440,Shake,Milton,SG,23,Philadelphia 76ers
+441,Donovan,Mitchell,SG,23,Utah Jazz
+442,Naz,Mitrou-Long,SG,26,Indiana Pacers
+443,Adam,Mokoka,SF,21,Chicago Bulls
+444,Malik,Monk,SG,21,Charlotte Hornets
+445,Matt,Mooney,SG,22,Cleveland Cavaliers
+446,E'Twaun,Moore,SG,30,New Orleans Pelicans
+447,Ja,Morant,PG,20,Memphis Grizzlies
+448,Juwan,Morgan,PF,22,Utah Jazz
+449,Marcus,Morris,SF-PF,30,0
+450,Marcus,Morris,SF,30,New York Knicks
+451,Marcus,Morris,PF,30,Los Angeles Clippers
+452,Markieff,Morris,PF,30,0
+453,Markieff,Morris,PF,30,Detroit Pistons
+454,Markieff,Morris,PF,30,Los Angeles Lakers
+455,Monte,Morris,PG,24,Denver Nuggets
+456,Johnathan,Motley,PF,24,Los Angeles Clippers
+457,Emmanuel,Mudiay,PG,23,Utah Jazz
+458,Mychal,Mulder,SF,25,Golden State Warriors
+459,Dejounte,Murray,PG,23,San Antonio Spurs
+460,Jamal,Murray,PG,22,Denver Nuggets
+461,Džanan,Musa,SF,20,Brooklyn Nets
+462,Mike,Muscala,C,28,Oklahoma City Thunder
+463,Player,0,Pos,Age,0
+464,Svi,Mykhailiuk,SF,22,Detroit Pistons
+465,Abdel,Nader,SF,26,Oklahoma City Thunder
+466,Larry,Nance,PF,27,Cleveland Cavaliers
+467,Shabazz,Napier,PG,28,0
+468,Shabazz,Napier,PG,28,Minnesota Timberwolves
+469,Shabazz,Napier,PG,28,Washington Wizards
+470,Raul,Neto,PG,27,Philadelphia 76ers
+471,Malik,Newman,SG,22,Cleveland Cavaliers
+472,Georges,Niang,PF,26,Utah Jazz
+473,Joakim,Noah,C,34,Los Angeles Clippers
+474,Nerlens,Noel,C,25,Oklahoma City Thunder
+475,Zach,Norvell,SG,22,0
+476,Zach,Norvell,SG,22,Los Angeles Lakers
+477,Zach,Norvell,SG,22,Golden State Warriors
+478,Jaylen,Nowell,SG,20,Minnesota Timberwolves
+479,Frank,Ntilikina,PG,21,New York Knicks
+480,Kendrick,Nunn,PG,24,Miami Heat
+481,Jusuf,Nurkić,C,25,Portland Trail Blazers
+482,David,Nwaba,SF,27,Brooklyn Nets
+483,Royce,O'Neale,SF,26,Utah Jazz
+484,Kyle,O'Quinn,C,29,Philadelphia 76ers
+485,Semi,Ojeleye,PF,25,Boston Celtics
+486,Jahlil,Okafor,C,24,New Orleans Pelicans
+487,Elie,Okobo,PG,22,Phoenix Suns
+488,Player,0,Pos,Age,0
+489,Josh,Okogie,SG,21,Minnesota Timberwolves
+490,KZ,Okpala,PF,20,Miami Heat
+491,Victor,Oladipo,SG,27,Indiana Pacers
+492,Kelly,Olynyk,C,28,Miami Heat
+493,Miye,Oni,SF,22,Utah Jazz
+494,Cedi,Osman,SF,24,Cleveland Cavaliers
+495,Kelly,Oubre,SF,24,Phoenix Suns
+496,Tariq,Owens,PF,24,Phoenix Suns
+497,Jeremy,Pargo,PG,33,Golden State Warriors
+498,Jabari,Parker,PF,24,0
+499,Jabari,Parker,PF,24,Atlanta Hawks
+500,Jabari,Parker,PF,24,Sacramento Kings
+501,Chandler,Parsons,PF,31,Atlanta Hawks
+502,Eric,Paschall,PF,23,Golden State Warriors
+503,Anžejs,Pasečņiks,C,24,Washington Wizards
+504,Patrick,Patterson,PF,30,Los Angeles Clippers
+505,Justin,Patton,C,22,Oklahoma City Thunder
+506,Chris,Paul,PG,34,Oklahoma City Thunder
+507,Cameron,Payne,SG,25,Phoenix Suns
+508,Elfrid,Payton,PG,25,New York Knicks
+509,Gary,Payton,SF,27,Washington Wizards
+510,Norvel,Pelle,C,26,Philadelphia 76ers
+511,Player,0,Pos,Age,0
+512,Theo,Pinson,SG,24,Brooklyn Nets
+513,Mason,Plumlee,C,29,Denver Nuggets
+514,Jakob,Poeltl,C,24,San Antonio Spurs
+515,Vincent,Poirier,C,26,Boston Celtics
+516,Shamorie,Ponds,PG,21,Toronto Raptors
+517,Jordan,Poole,SG,20,Golden State Warriors
+518,Kevin,Porter,SF,19,Cleveland Cavaliers
+519,Michael,Porter,SF,21,Denver Nuggets
+520,Otto,Porter,SF,26,Chicago Bulls
+521,Bobby,Portis,PF,24,New York Knicks
+522,Kristaps,Porziņģis,C,24,Dallas Mavericks
+523,Dwight,Powell,C,28,Dallas Mavericks
+524,Norman,Powell,SG,26,Toronto Raptors
+525,Taurean,Prince,PF,25,Brooklyn Nets
+526,Chasson,Randle,PG,26,Golden State Warriors
+527,Julius,Randle,PF,25,New York Knicks
+528,Josh,Reaves,SF,22,Dallas Mavericks
+529,Cam,Reddish,SF,20,Atlanta Hawks
+530,J.J.,Redick,SG,35,New Orleans Pelicans
+531,Naz,Reid,C,20,Minnesota Timberwolves
+532,Player,0,Pos,Age,0
+533,Josh,Richardson,SG,26,Philadelphia 76ers
+534,Austin,Rivers,SG,27,Houston Rockets
+535,Andre,Roberson,SF,28,Oklahoma City Thunder
+536,Duncan,Robinson,SG,25,Miami Heat
+537,Glenn,Robinson,SF,26,0
+538,Glenn,Robinson,SF,26,Golden State Warriors
+539,Glenn,Robinson,SF,26,Philadelphia 76ers
+540,Jerome,Robinson,SG,22,0
+541,Jerome,Robinson,SG,22,Los Angeles Clippers
+542,Jerome,Robinson,SG,22,Washington Wizards
+543,Justin,Robinson,PG,22,Washington Wizards
+544,Mitchell,Robinson,C,21,New York Knicks
+545,Isaiah,Roby,PF,21,Oklahoma City Thunder
+546,Rajon,Rondo,PG,33,Los Angeles Lakers
+547,Derrick,Rose,PG,31,Detroit Pistons
+548,Terrence,Ross,SG,28,Orlando Magic
+549,Terry,Rozier,PG,25,Charlotte Hornets
+550,Ricky,Rubio,PG,29,Phoenix Suns
+551,D'Angelo,Russell,PG,23,0
+552,D'Angelo,Russell,PG,23,Golden State Warriors
+553,D'Angelo,Russell,PG,23,Minnesota Timberwolves
+554,Domantas,Sabonis,PF,23,Indiana Pacers
+555,Luka,Šamanić,PF,20,San Antonio Spurs
+556,JaKarr,Sampson,PF,26,Indiana Pacers
+557,Dario,Šarić,PF,25,Phoenix Suns
+558,Tomáš,Satoranský,SG,28,Chicago Bulls
+559,Player,0,Pos,Age,0
+560,Admiral,Schofield,PF,22,Washington Wizards
+561,Dennis,Schröder,PG,26,Oklahoma City Thunder
+562,Mike,Scott,PF,31,Philadelphia 76ers
+563,Thabo,Sefolosha,PF,35,Houston Rockets
+564,Collin,Sexton,PG,21,Cleveland Cavaliers
+565,Landry,Shamet,SG,22,Los Angeles Clippers
+566,Marial,Shayok,SG,24,Philadelphia 76ers
+567,Iman,Shumpert,SF,29,Brooklyn Nets
+568,Pascal,Siakam,PF,25,Toronto Raptors
+569,Chris,Silva,PF,23,Miami Heat
+570,Ben,Simmons,PG,23,Philadelphia 76ers
+571,Anfernee,Simons,SG,20,Portland Trail Blazers
+572,Alen,Smailagić,C,19,Golden State Warriors
+573,Marcus,Smart,SG,25,Boston Celtics
+574,Dennis,Smith,PG,22,New York Knicks
+575,Ish,Smith,PG,31,Washington Wizards
+576,J.R.,Smith,SG,34,Los Angeles Lakers
+577,Zhaire,Smith,SF,20,Philadelphia 76ers
+578,Tony,Snell,SF,28,Detroit Pistons
+579,Omari,Spellman,C,22,Golden State Warriors
+580,Player,0,Pos,Age,0
+581,Max,Strus,SF,23,Chicago Bulls
+582,Edmond,Sumner,SG,24,Indiana Pacers
+583,Caleb,Swanigan,PF-C,22,0
+584,Caleb,Swanigan,C,22,Sacramento Kings
+585,Caleb,Swanigan,PF,22,Portland Trail Blazers
+586,Jayson,Tatum,PF,21,Boston Celtics
+587,Jeff,Teague,PG,31,0
+588,Jeff,Teague,PG,31,Minnesota Timberwolves
+589,Jeff,Teague,PG,31,Atlanta Hawks
+590,Garrett,Temple,SG,33,Brooklyn Nets
+591,Daniel,Theis,C,27,Boston Celtics
+592,Isaiah,Thomas,PG,30,Washington Wizards
+593,Khyri,Thomas,SG,23,Detroit Pistons
+594,Lance,Thomas,PF,31,Brooklyn Nets
+595,Matt,Thomas,SG,25,Toronto Raptors
+596,Tristan,Thompson,PF,28,Cleveland Cavaliers
+597,Sindarius,Thornwell,SF,25,New Orleans Pelicans
+598,Matisse,Thybulle,SG,22,Philadelphia 76ers
+599,Anthony,Tolliver,PF,34,0
+600,Anthony,Tolliver,PF,34,Portland Trail Blazers
+601,Anthony,Tolliver,PF,34,Sacramento Kings
+602,Anthony,Tolliver,PF,34,Memphis Grizzlies
+603,Juan,Toscano-Anderson,SG,26,Golden State Warriors
+604,Karl-Anthony,Towns,C,24,Minnesota Timberwolves
+605,Gary,Trent,SF,21,Portland Trail Blazers
+606,Allonzo,Trier,SG,24,New York Knicks
+607,P.J.,Tucker,PF,34,Houston Rockets
+608,Player,0,Pos,Age,0
+609,Rayjon,Tucker,SG,22,Utah Jazz
+610,Evan,Turner,SG,31,Atlanta Hawks
+611,Myles,Turner,C,23,Indiana Pacers
+612,Jarrod,Uthoff,PF,26,0
+613,Jarrod,Uthoff,PF,26,Memphis Grizzlies
+614,Jarrod,Uthoff,PF,26,Washington Wizards
+615,Jonas,Valančiūnas,C,27,Memphis Grizzlies
+616,Denzel,Valentine,SF,26,Chicago Bulls
+617,Jarred,Vanderbilt,PF,20,0
+618,Jarred,Vanderbilt,PF,20,Denver Nuggets
+619,Jarred,Vanderbilt,PF,20,Minnesota Timberwolves
+620,Fred,VanVleet,SG,25,Toronto Raptors
+621,Gabe,Vincent,PG,23,Miami Heat
+622,Noah,Vonleh,C,24,0
+623,Noah,Vonleh,C,24,Minnesota Timberwolves
+624,Noah,Vonleh,C,24,Denver Nuggets
+625,Nikola,Vučević,C,29,Orlando Magic
+626,Dean,Wade,PF,23,Cleveland Cavaliers
+627,Moritz,Wagner,C,22,Washington Wizards
+628,Dion,Waiters,SG,28,0
+629,Dion,Waiters,SG,28,Miami Heat
+630,Dion,Waiters,SG,28,Los Angeles Lakers
+631,Kemba,Walker,PG,29,Boston Celtics
+632,Lonnie,Walker,SG,21,San Antonio Spurs
+633,Tyrone,Wallace,SG,25,Atlanta Hawks
+634,Derrick,Walton,PG,24,0
+635,Derrick,Walton,PG,24,Los Angeles Clippers
+636,Derrick,Walton,PG,24,Detroit Pistons
+637,Brad,Wanamaker,PG,30,Boston Celtics
+638,T.J.,Warren,SF,26,Indiana Pacers
+639,Player,0,Pos,Age,0
+640,P.J.,Washington,PF,21,Charlotte Hornets
+641,Yuta,Watanabe,SF,25,Memphis Grizzlies
+642,Tremont,Waters,PG,22,Boston Celtics
+643,Paul,Watson,SF,25,0
+644,Paul,Watson,SF,25,Atlanta Hawks
+645,Paul,Watson,SF,25,Toronto Raptors
+646,Quinndary,Weatherspoon,SG,23,San Antonio Spurs
+647,Russell,Westbrook,PG,31,Houston Rockets
+648,Coby,White,PG,19,Chicago Bulls
+649,Derrick,White,SG,25,San Antonio Spurs
+650,Hassan,Whiteside,C,30,Portland Trail Blazers
+651,Andrew,Wiggins,SF,24,0
+652,Andrew,Wiggins,SF,24,Minnesota Timberwolves
+653,Andrew,Wiggins,SF,24,Golden State Warriors
+654,Grant,Williams,PF,21,Boston Celtics
+655,Johnathan,Williams,PF,24,Washington Wizards
+656,Kenrich,Williams,PF,25,New Orleans Pelicans
+657,Lou,Williams,PG,33,Los Angeles Clippers
+658,Marvin,Williams,PF,33,0
+659,Marvin,Williams,PF,33,Charlotte Hornets
+660,Marvin,Williams,PF,33,Milwaukee Bucks
+661,Robert,Williams,C,22,Boston Celtics
+662,Nigel,Williams-Goss,PG,25,Utah Jazz
+663,Zion,Williamson,PF,19,New Orleans Pelicans
+664,D.J.,Wilson,PF,23,Milwaukee Bucks
+665,Justise,Winslow,SG,23,Miami Heat
+666,Player,0,Pos,Age,0
+667,Christian,Wood,PF,24,Detroit Pistons
+668,Delon,Wright,PG,27,Dallas Mavericks
+669,Justin,Wright-Foreman,PG,22,Utah Jazz
+670,Thaddeus,Young,PF,31,Chicago Bulls
+671,Trae,Young,PG,21,Atlanta Hawks
+672,Cody,Zeller,C,27,Charlotte Hornets
+673,Tyler,Zeller,C,30,San Antonio Spurs
+674,Ante,Žižić,C,23,Cleveland Cavaliers
+675,Ivica,Zubac,C,22,Los Angeles Clippers
