@@ -45,6 +45,7 @@ The performed the following steps for above analysis:
 
 #### Please visit the following link to get a detailed view of our Twitter data analysis
 https://github.com/SwapnilBhasgauri21/Twitter_Bot
+https://github.com/vikpawar22/Twitter-bot
 
 
 ### Phase 2: Gathering data from multiple resources
@@ -56,6 +57,7 @@ We have collated all the above data sources to create a database and established
 
 #### Please visit the following link to get a detailed view of Phase 2
 https://github.com/SwapnilBhasgauri21/Web_Scraping
+https://github.com/vikpawar22/DMDD_Ass3
 
 ### Phase 3: Normalization
 
