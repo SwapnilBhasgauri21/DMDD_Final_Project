@@ -349,8 +349,37 @@ SQL Statement:
 	
 ![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/UC_10%20(1).png)
 
+## Views
 
+1.Which players are playing for the team with highest srs?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_1.png)
 
+2.Which player has the highest field goal percentage for a season and represents which team?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_2.png)
+
+3.Which players have a 3 pointer percentage greater than 0.4 and which team they belong to?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_3.png)
+
+4.Which team has players of age group 25 to 30 and what are their particular points?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_4.png)
+
+5.Which all players are playing at Power Forward position for the team?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_5.png)
+
+6.Which player has the highest minutes played and for which team?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_6.png)
+
+7.Which all players are playing at Shooting Guard position for the team with highest srs?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_7.png)
+
+8.Which is the youngest player who has played the most games?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_8.png)
+
+9.Which all teams have srs greater than 3 and who all are playing under them?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_9.png)
+
+10.Which players have the highest points from each team?
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/V_10.png)
 
 ## Sample data from all tables
 
