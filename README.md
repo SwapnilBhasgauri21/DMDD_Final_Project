@@ -29,10 +29,44 @@ We have used 2 websites to scrape the data:
 -https://www.basketball-reference.com/
 -https://en.hispanosnba.com/nba-arenas
 
-### Website Scraping: 
-As most of the details about the NBA games and players are available on the Basketball Reference’s website, we have scraped multiple pages to gather information in thei respective tables. We have used the other website to collect the stadium details of each team. We have used Python to scrape data.
+## Implementation
+
+### Phase 1: Twitter 
+
+We started with thorough research and collection of existing data pertaining to this project. We sought various sources of data and verified the existing ones. To begin with, we laid out the use cases which we were seeking answers for. As the next steps, we spoke to a bunch of students at Northeastern University to gather information and factor in their points of view. 
+
+Moving forward, we sought broader sources of information which led us to Twitter. Since Twitter as a platform voices many opinions, we thought it would give us a good sense of our project space. We scraped Twitter API, using tweepy for relevant programs, courses, and resources offered by Northeastern university, tweets, information about users, and their posts related to our database. This was a good starting point for our database and it helped us to move in the right direction. 
+
+The performed the following steps for above analysis: 
+
+- Fetched data from twitter 
+- Inserted that data in our database using MYSQL
+- Performed Queries to view data related to courses, programs, faculty details, events, and users. 
+- Aligned and corraborated our usecases with the data collected using Twitter API 
+
+#### Please visit the following link to get a detailed view of our Twitter data analysis
+https://github.com/SwapnilBhasgauri21/Twitter_Bot
+
+
+### Phase 2: Gathering data from multiple resources
+
+After collecting data from twitter, we condenseed our search to three main sources for data collection, described as follows: 
+
+#### Website Scraping: 
 We have collated all the above data sources to create a database and established connections between them to provide precise information for the same.
 
+#### Please visit the following link to get a detailed view of Phase 2
+https://github.com/SwapnilBhasgauri21/Web_Scraping
+
+### Phase 3: Normalization
+
+The data collected in Phase 2 was sufficient but it was not in standard format. Phase 3 of this project involved normalizing this data. We studied all the tables obtained in the second phase extensively and realised that some tables were violating the some normal forms viz. 1NF, 2NF, and 3NF. We have documeneted all these changes in a separate detailed folder. 
+
+#### Please refer to the PDF named DMDD_Assignment_4
+
+
+### Phase 4: Final Project
+![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/ER%20Diagram.jpg)
 
 
 ## Data Cleaning:
