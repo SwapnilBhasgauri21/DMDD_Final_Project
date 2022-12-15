@@ -20,6 +20,17 @@ The database will include:
 
 We developed a web scraper using Python and which was responsible for scraping data from the website and storing it in the database. The database is built using the SQL programming language and is used to store the data collected from the website BeautifulSoup and requests libraries. Finally, the queries are used to access the data in the database and display the desired results Once the data was successfully scraped, it was stored in a MySQL database using SQL commands. The data was then organised into tables, each containing information about a particular aspect of basketball such as teams, players, and games.The goal of this project is to provide a comprehensive database of basketball-related facts and figures that can be used by different coaches, players, researchers, and other basketball enthusiasts.
 
+## Scope:
+Player stats are a vital tool for team management when it comes to selecting the right players for their teams. Player stats provide the team with a comprehensive analysis of the performance of an individual player and how they fit into a team’s overall strategy. Player stats help team management to identify the strengths and weaknesses of a player and to assess whether the player’s skillset is well suited for the team’s playing style.  
+
+Player stats can provide the team with detailed information on a range of specific metrics, such as a player’s passing success rate, shooting accuracy, and defensive ability. This can help team management to determine which players are best suited to certain roles within the team. For example, a player with a high passing success rate is likely to be better suited to a playmaker role than a player with a lower success rate.  
+
+Player stats can also show how a player has improved over time and this can be used to assess a player’s development. This can be beneficial for team management when selecting players as it allows them to identify those who are likely to be able to improve and become key contributors for the team.  
+
+Player stats also give team management an indication of how a player performs in different types of game scenarios.  
+
+Basketball player stats are important for viewers to be able to understand the performance of their favorite players and teams. Stats can provide valuable insight into the strengths and weaknesses of players and teams.
+
 ## Plan of Action:
 We have used 2 websites to scrape the data: 
 -https://www.basketball-reference.com/
@@ -399,12 +410,5 @@ SQL Statement:
 ### Team Table: 
 ![image](https://github.com/SwapnilBhasgauri21/DMDD_Final_Project/blob/master/Images/Team.png)
 
-## Scope:
-Player stats are a vital tool for team management when it comes to selecting the right players for their teams. Player stats provide the team with a comprehensive analysis of the performance of an individual player and how they fit into a team’s overall strategy. Player stats help team management to identify the strengths and weaknesses of a player and to assess whether the player’s skillset is well suited for the team’s playing style.  
 
-Player stats can provide the team with detailed information on a range of specific metrics, such as a player’s passing success rate, shooting accuracy, and defensive ability. This can help team management to determine which players are best suited to certain roles within the team. For example, a player with a high passing success rate is likely to be better suited to a playmaker role than a player with a lower success rate.  
-
-Player stats can also show how a player has improved over time and this can be used to assess a player’s development. This can be beneficial for team management when selecting players as it allows them to identify those who are likely to be able to improve and become key contributors for the team.  
-
-Player stats also give team management an indication of how a player performs in different types of game scenarios.  
 
