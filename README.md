@@ -1,4 +1,3 @@
-# DMDD_Final_Project
 # NBA Players stat
 
 
